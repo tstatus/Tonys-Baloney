@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 413.879 393.622">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff3;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 12px;
+      }
+    </style>
+  </defs>
+  <title>Star</title>
+  <polygon class="cls-1" points="206.939 19.416 251.432 156.35 395.412 156.35 278.93 240.98 323.422 377.914 206.939 293.284 90.456 377.914 134.949 240.98 18.466 156.35 162.447 156.35 206.939 19.416"/>
+</svg>

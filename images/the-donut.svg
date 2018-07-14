@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355.2 355.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f99;
+        stroke: #f66;
+        stroke-miterlimit: 10;
+        stroke-width: 11px;
+      }
+    </style>
+  </defs>
+  <title>The Donut</title>
+  <path class="cls-1" d="M250,77.9A172.1,172.1,0,1,0,422.1,250,172.1,172.1,0,0,0,250,77.9Zm0,227.17A55.07,55.07,0,1,1,305.07,250,55.076,55.076,0,0,1,250,305.07Z" transform="translate(-72.4 -72.4)"/>
+</svg>

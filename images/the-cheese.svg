@@ -1,0 +1,29 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352.2 352.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f99;
+        stroke: #f66;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+
+      .cls-2 {
+        fill: #ff6;
+        stroke: #fc3;
+      }
+    </style>
+  </defs>
+  <title>The Cheese</title>
+  <path class="cls-1" d="M422.1,250A172.191,172.191,0,0,1,189.94,411.32a169.246,169.246,0,0,1-22.84-10.47A172.112,172.112,0,1,1,422.1,250Z" transform="translate(-73.9 -73.9)"/>
+  <rect class="cls-2" x="124.717" y="237.619" width="27.194" height="53.127" transform="translate(217.273 446.324) rotate(176.797)"/>
+  <rect class="cls-2" x="216.449" y="181.793" width="22.527" height="38.913" transform="translate(-128.335 240.253) rotate(-63.279)"/>
+  <polyline class="cls-2" points="320.63 269.56 289.88 238.81 305.81 222.88 332.01 249.08"/>
+  <rect class="cls-2" x="275.357" y="245.847" width="22.527" height="77.595" transform="translate(418.112 -137.089) rotate(75.76)"/>
+  <path class="cls-2" d="M207.22,385.55l-17.28,25.77a169.246,169.246,0,0,1-22.84-10.47l19.52-29.11Z" transform="translate(-73.9 -73.9)"/>
+  <rect class="cls-2" x="300.518" y="122.154" width="32.196" height="56.044" transform="translate(-45.648 275.385) rotate(-60)"/>
+  <path class="cls-2" d="M170.82,137.59l-18.37,13.04-19.21-27.05a172.142,172.142,0,0,1,17.53-14.21Z" transform="translate(-73.9 -73.9)"/>
+</svg>
